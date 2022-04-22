@@ -1,0 +1,12 @@
+D:\Faculdade\PIM\PIM III\Sisstema_C#\Sistema_Seguradora_PIM\obj\Debug\Sistema_Seguradora_PIM.csproj.AssemblyReference.cache
+D:\Faculdade\PIM\PIM III\Sisstema_C#\Sistema_Seguradora_PIM\obj\Debug\Sistema_Seguradora_PIM.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\PIM\PIM III\Sisstema_C#\Sistema_Seguradora_PIM\obj\Debug\Sistema_Seguradora_PIM.Principal.resources
+D:\Faculdade\PIM\PIM III\Sisstema_C#\Sistema_Seguradora_PIM\obj\Debug\Sistema_Seguradora_PIM.Properties.Resources.resources
+D:\Faculdade\PIM\PIM III\Sisstema_C#\Sistema_Seguradora_PIM\obj\Debug\Sistema_Seguradora_PIM.csproj.GenerateResource.cache
+D:\Faculdade\PIM\PIM III\Sisstema_C#\Sistema_Seguradora_PIM\obj\Debug\Sistema_Seguradora_PIM.csproj.CoreCompileInputs.cache
+D:\Faculdade\PIM\PIM III\Sisstema_C#\Sistema_Seguradora_PIM\bin\Debug\Sistema_Seguradora_PIM.exe.config
+D:\Faculdade\PIM\PIM III\Sisstema_C#\Sistema_Seguradora_PIM\bin\Debug\Sistema_Seguradora_PIM.exe
+D:\Faculdade\PIM\PIM III\Sisstema_C#\Sistema_Seguradora_PIM\bin\Debug\Sistema_Seguradora_PIM.pdb
+D:\Faculdade\PIM\PIM III\Sisstema_C#\Sistema_Seguradora_PIM\obj\Debug\Sistema_Seguradora_PIM.exe
+D:\Faculdade\PIM\PIM III\Sisstema_C#\Sistema_Seguradora_PIM\obj\Debug\Sistema_Seguradora_PIM.pdb
+D:\Faculdade\PIM\PIM III\Sisstema_C#\Sistema_Seguradora_PIM\obj\Debug\Sistema_Seguradora_PIM.Telas_Cliente.Login_Cliente.resources
